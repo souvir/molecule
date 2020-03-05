@@ -1,0 +1,5 @@
+# Development folders and files #
+#################################
+builds/
+dist/
+node_modules/
